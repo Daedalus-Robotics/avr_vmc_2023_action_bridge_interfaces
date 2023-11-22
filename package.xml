@@ -3,7 +3,7 @@
 <package format="3">
     <name>avr_vmc_2023_action_bridge_interfaces</name>
     <version>0.0.0</version>
-    <description>A bridge to convert actions to topics and services to be used over rosbridge</description>
+    <description>Interfaces to convert actions to topics and services to be used over rosbridge</description>
     <maintainer email="hunterbaker@me.com">Hunter Baker</maintainer>
     <license>LGPL-3.0-only</license>
 
